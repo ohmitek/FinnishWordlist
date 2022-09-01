@@ -1,4 +1,4 @@
-# My customized word lists of almost all Finnish words.
+# My customized wordlists of almost all Finnish words.
 
 kaikkisanat_muokattu.txt words contain also the suffix 1 - 12345678910 and 666.
 
