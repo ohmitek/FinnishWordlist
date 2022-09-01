@@ -1,6 +1,6 @@
 My customized word lists of almost all Finnish words.
 
-kaikkisanat_muokattu.txt words contain the suffix 12345678910 and 666.
+kaikkisanat_muokattu.txt words contain also the suffix 1 - 12345678910 and 666.
 
 sukunimet2022.txt contains almost all Finnish surnames.
 
