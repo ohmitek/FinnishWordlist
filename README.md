@@ -1,4 +1,4 @@
-Custom made finnish wordlists.
+My customized word list of almost all Finnish words.
 
 This list contains Finnish words that can be used, for example, to crack captured wlan handshakes.
 Typical scripts for cracking are Aircrack-ng,Wifite and Hashcat.
