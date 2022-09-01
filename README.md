@@ -5,3 +5,7 @@ Typical scripts for cracking are Aircrack-ng,Wifite and Hashcat.
 
 
 
+For Wifite use command:
+
+sudo wifite --dict /pathtoyourfile/pathtoyourfile/kaikkisanat_muokattu.txt
+
