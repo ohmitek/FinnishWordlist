@@ -11,6 +11,5 @@ Typical scripts for cracking are Aircrack-ng,Wifite and Hashcat.
 
 
 After you have successfully recorded the WPA handshake you can use the Wifite command:
-
 sudo wifite --dict /pathtoyourfile/pathtoyourfile/kaikkisanat_muokattu.txt
 
