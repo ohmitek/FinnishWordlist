@@ -14,5 +14,8 @@ You can also use lists for online bruteforcing and password spraying.
 
 ## After you have successfully recorded the WPA handshake you can use the Wifite command:
 
-sudo wifite --crack --dict /pathtoyourfile/pathtoyourfile/kaikkisanat_muokattu.txt
+- sudo wifite --crack --dict /pathtoyourfile/pathtoyourfile/kaikkisanat_muokattu.txt
+
+
+## Attention! Do not cause harm to anyone's communication network!
 
