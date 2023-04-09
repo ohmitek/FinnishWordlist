@@ -9,9 +9,8 @@ sukunimet2022.txt contains almost all Finnish surnames.
 Typical scripts for cracking are Aircrack-ng, Wifite and Hashcat.
 You can also use lists for online bruteforcing and password spraying.
 
-After you have successfully recorded the WPA handshake you can use the commands:
+After you have successfully recorded the WPA handshake you can use one of the commands:
 - sudo wifite --crack --dict /path/kaikkisanat_muokattu.txt
-or
 - sudo hashcat -m 22000 -a 0 /path/name_of_your_handshake.hc22000 /path/kaikkisanat_muokattu.txt -w 4 --status
 
 Attention! Do not cause harm to anyone's network!
